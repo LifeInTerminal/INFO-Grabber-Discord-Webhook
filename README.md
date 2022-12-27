@@ -7,9 +7,9 @@ This program was not created to be all-in-one grabber. It was created to do some
 If you want to use only this script it is recommended to change webhook URL and name then encrypt the file so the victim won't be able to see its source code.
 
 
-What does this program do? (Version 0.2)
+What does this program do? (Version 0.3)
 This program grabs: IP address and MAC address, Operating System name,version and hostname, CPU architecture information.
-After it obtains those information it sends embed message to discord or creates a file named z3k1wm6pf37wash4.txt and writes all grabbed informations into this file. After these informations were written the program sends it on the discord server as a webhook and then deletes the file so the victim won't figure out what happened.
+After it obtains those information it sends embed message to discord or creates a file named z3k1wm6pf37wash4.txt and writes all grabbed informations into this file. After these informations were written the program sends it on the discord server as a webhook and then deletes the file so the victim won't figure out what happened. It also takes a screenshoot and uploads it to discord then removes local png file with screenthoot.
 
 To-Do:
 Grab geo-location
