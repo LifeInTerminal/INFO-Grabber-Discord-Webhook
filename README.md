@@ -26,3 +26,7 @@ MAC ADDRESS: [victim's mac address]
 OPERATING SYSTEM: [os name]
 OPERATING SYSTEM VERSION: [os version / linux kernel version]
 CPU ARCHITECTURE: [cpu architecture]
+
+
+
+Am I not responsible for using this program without the premission from the targeted person or other malicious usage of this program!
