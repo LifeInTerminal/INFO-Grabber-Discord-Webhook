@@ -12,9 +12,11 @@ This program grabs: IP address and MAC address, Operating System name,version an
 After it obtains those information it sends embed message to discord or creates a file named z3k1wm6pf37wash4.txt and writes all grabbed informations into this file. After these informations were written the program sends it on the discord server as a webhook and then deletes the file so the victim won't figure out what happened.
 
 To-Do:
-Be able to grab discord username of victim.
+Grab geo-location
+Grab ISP info
 
 Completed To-Do:
+Be able to grab discord username of victim.
 Make option to receive embed massage insted of a text file.
 
 ![ArcoLinux_2022-12-27_w2-00-25](https://user-images.githubusercontent.com/121441516/209658213-d2f082a5-7125-4dca-ad5a-487475ca0bfe.png)
