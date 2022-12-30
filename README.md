@@ -7,17 +7,17 @@ This program was not created to be all-in-one grabber. It was created to do some
 If you want to use only this script it is recommended to change webhook URL and name then encrypt the file so the victim won't be able to see its source code.
 
 
-What does this program do? (Version 0.3)
+What does this program do? (Version 0.4)
 This program grabs: IP address and MAC address, Operating System name,version and hostname, CPU architecture information.
-After it obtains those information it sends embed message to discord or creates a file named z3k1wm6pf37wash4.txt and writes all grabbed informations into this file. After these informations were written the program sends it on the discord server as a webhook and then deletes the file so the victim won't figure out what happened. It also takes a screenshoot and uploads it to discord then removes local png file with screenthoot.
+After it obtains those information it sends embed message to discord or creates a file named z3k1wm6pf37wash4.txt and writes all grabbed informations into this file. After these informations were written the program sends it on the discord server as a webhook and then deletes the file so the victim won't figure out what happened. It also takes a screenshoot and uploads it to discord then removes local png file with screenthoot. Added grabbing a lot of geo-location info and ISP name in json file.
 
 To-Do:
-Grab geo-location
-Grab ISP info
+Be able to grab discord username of victim.
 
 Completed To-Do:
-Be able to grab discord username of victim.
 Make option to receive embed massage insted of a text file.
+Grab ISP info.
+Grab geo-location.
 
 ![ArcoLinux_2022-12-27_w2-00-25](https://user-images.githubusercontent.com/121441516/209658213-d2f082a5-7125-4dca-ad5a-487475ca0bfe.png)
 ![ArcoLinux_2022-12-27_12-0w6-48](https://user-images.githubusercontent.com/121441516/209658222-99dbbab8-6d7f-4c9a-8ea0-24f1b076cfae.png)
