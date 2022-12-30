@@ -19,9 +19,7 @@ Make option to receive embed massage insted of a text file.
 Grab ISP info.
 Grab geo-location.
 
-![ArcoLinux_2022-12-27_w2-00-25](https://user-images.githubusercontent.com/121441516/209658213-d2f082a5-7125-4dca-ad5a-487475ca0bfe.png)
-![ArcoLinux_2022-12-27_12-0w6-48](https://user-images.githubusercontent.com/121441516/209658222-99dbbab8-6d7f-4c9a-8ea0-24f1b076cfae.png)
+![redacted_embed](https://user-images.githubusercontent.com/121441516/210087626-566ebca3-950f-4acb-a116-fc4abdb69b09.png)
+![redacted_file](https://user-images.githubusercontent.com/121441516/210087629-7d0fd3ce-ef75-4ade-bdd4-81ebc4389a04.png)
 
 Am I not responsible for using this program without the premission from the targeted person or other malicious usage of this program!
-
-
